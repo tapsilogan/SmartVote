@@ -1,0 +1,19 @@
+body {
+    font-family: "Poppins", serif;
+}
+.navbar-brand {
+    font-size: 2rem;
+}
+.hero-title {
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: left;
+}
+.hero-description {
+    font-size: 2rem;
+    margin-top: 10px;
+    text-align: left;
+}
+.hero-section .btn {
+    margin-top: 20px;
+}
